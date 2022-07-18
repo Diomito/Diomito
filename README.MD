@@ -3,3 +3,7 @@
 > Status: Em desenvolvimento
 
 Para rodar esse sistema na maquina, voce precisa digitar: 
+
+```
+node app.js
+```
